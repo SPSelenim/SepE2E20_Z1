@@ -18,7 +18,7 @@ public class EnterUserName {
 				driver.get(AppPath);
 driver.manage().window().maximize();
 Thread.sleep(2000);
-System.out.println("========================ENTERED================2222122-Acc=====*****User22_5101");
+System.out.println("========================ENTERED================2222122-Acc=====*****User22_5101_d1");
 
   driver.findElement(By.id(("UN"))).sendKeys("UN11111");
   Thread.sleep(2000);
