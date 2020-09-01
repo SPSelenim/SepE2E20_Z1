@@ -18,6 +18,7 @@ public class EnterUserName {
 				driver.get(AppPath);
 driver.manage().window().maximize();
 Thread.sleep(2000);
+System.out.println("========================ENTERED");
   driver.findElement(By.id(("UN"))).sendKeys("UN11111");
   Thread.sleep(2000);
   driver.findElement(By.id(("PWD"))).sendKeys("UN11111");
