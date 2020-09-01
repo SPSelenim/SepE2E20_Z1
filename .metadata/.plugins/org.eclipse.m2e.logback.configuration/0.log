@@ -20,3 +20,54 @@
 2020-09-01 10:49:11,649 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
 2020-09-01 10:49:11,652 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-01 10:49:11,652 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:52:06,693 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:06,693 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:52:06,696 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:06,696 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:52:22,335 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:22,335 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:52:22,337 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:22,338 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:52:46,078 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:46,078 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:52:46,080 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:52:46,081 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:53:23,342 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:53:23,343 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:53:23,348 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:53:23,348 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:53:28,407 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:53:28,407 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:53:28,410 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:53:28,410 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:54:54,265 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stc:SepE2E20_Z1:0.0.1-SNAPSHOT @ E:\SepE2E20_Z1\SepE2E20_Z1\pom.xml.
+2020-09-01 10:54:54,611 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:54:54,611 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:54:54,615 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:54:54,615 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:54:55,835 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:54:55,835 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:54:55,838 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:54:55,838 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:55:27,351 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stc:SepE2E20_Z1:0.0.1-SNAPSHOT @ E:\SepE2E20_Z1\SepE2E20_Z1\pom.xml.
+2020-09-01 10:55:27,790 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:27,790 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:55:27,794 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:27,794 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:55:29,366 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:29,367 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:55:29,369 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:29,369 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:55:52,193 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stc:SepE2E20_Z1:0.0.1-SNAPSHOT @ E:\SepE2E20_Z1\SepE2E20_Z1\pom.xml.
+2020-09-01 10:55:53,537 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:53,537 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:55:53,541 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:53,541 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:55:55,085 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:55,086 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:55:55,089 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:55:55,089 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
+2020-09-01 10:56:14,852 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:56:14,853 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\main\resources
+2020-09-01 10:56:14,855 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-01 10:56:14,855 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\SepE2E20_Z1\SepE2E20_Z1\src\test\resources
