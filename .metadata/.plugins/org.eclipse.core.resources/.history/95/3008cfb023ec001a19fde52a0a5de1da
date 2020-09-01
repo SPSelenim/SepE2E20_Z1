@@ -15,7 +15,7 @@ public class LaunchBrowser {
 				driver=new ChromeDriver();
 				driver.get(AppPath);
 driver.manage().window().maximize();
-System.out.println("==================LAUNCHED1111111111111111----------");
+System.out.println("==================LAUNCHED");
 Thread.sleep(2000);
 driver.quit();
 	    }
